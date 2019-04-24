@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ribbon-consumer:war">
+    <output-path>$PROJECT_DIR$/ribbon-consumer/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ribbon-consumer</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ribbon-consumer-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ribbon-consumer:war exploded" />
+    </root>
+  </artifact>
+</component>
