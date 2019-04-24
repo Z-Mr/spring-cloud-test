@@ -7,6 +7,7 @@
     <file type="web" url="file://$PROJECT_DIR$/feign-consumer" />
     <file type="web" url="file://$PROJECT_DIR$/feign-file-consumer" />
     <file type="web" url="file://$PROJECT_DIR$/ribbon-consumer" />
+    <file type="web" url="file://$PROJECT_DIR$/zuul-service" />
   </component>
   <component name="Kotlin2JsCompilerArguments">
     <option name="sourceMapEmbedSources" />
@@ -25,6 +26,7 @@
         <option value="$PROJECT_DIR$/feign-file-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/config-server/pom.xml" />
         <option value="$PROJECT_DIR$/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul-service/pom.xml" />
       </list>
     </option>
   </component>
